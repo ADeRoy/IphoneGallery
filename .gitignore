@@ -1,0 +1,33 @@
+# Build output
+build/
+out/
+Install/
+
+# IDE
+.qtcreator/
+.vs/
+.idea/
+CMakeUserPresets.json
+*.user
+*.autosave
+
+# Binaries and deployed runtimes
+*.exe
+*.dll
+*.a
+*.lib
+*.pdb
+
+# Local test material
+_test*/
+_deletetest/
+_testdata/
+_videotest/
+_livetest/
+_rotest/
+_test3299/
+_testsurface/
+_testmirrors/
+
+# Misc
+*.log
